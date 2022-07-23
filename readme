@@ -1,0 +1,1 @@
+docker run -e aws_access_key_id='' -e aws_secret_access_key='/l3SsSPtbj3BLS/kz' -e file_path='user_uploads/612eeedc-9367-4fb5-a9f2-66e06a149f1b/4k.mp4' -t spext
